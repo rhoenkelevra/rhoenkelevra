@@ -49,12 +49,12 @@ Hi,I'm Rhoen Rene🙌, a Web Developer. Apart from that I am a father, husband a
 
 **Languages and Tools:**
 
-<img height="100" width="100" alt="reactjs" src="./img/react.png">
-<img height="100" width="100" alt="reactjs" src="./img/node.png">
-<img height="100" width="100" alt="reactjs" src="./img/js.png">
-<img height="100" width="100" alt="reactjs" src="./img/css.png">
-<img height="100" width="100" alt="reactjs" src="./img/python.png">
-<img height="100" width="100" alt="reactjs" src="./img/mysql.png">
+<img height="50" width="50" alt="reactjs" src="./img/react.png">
+<img height="50" width="50" alt="reactjs" src="./img/node.png">
+<img height="50" width="50" alt="reactjs" src="./img/js.png">
+<img height="50" width="50" alt="reactjs" src="./img/css.png">
+<img height="50" width="50" alt="reactjs" src="./img/python.png">
+<img height="50" width="50" alt="reactjs" src="./img/mysql.png">
 
 
 Blog hosted with ❤ by GitHub
