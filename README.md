@@ -40,13 +40,6 @@ Hi,I'm Rhoen Rene🙌, a Web Developer. Apart from that I am a father, husband a
 
 
 
-**Community**
-- Google Developer Group Bengaluru
-- HackClub NMIT
-- Tensorflow Community Bengaluru
-- Girlscript Foundation
-- Coding Ninja
-
 **Languages and Tools:**
 
 <p>
