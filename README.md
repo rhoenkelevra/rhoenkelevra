@@ -22,7 +22,7 @@
 
 <br /> -->
 
-Hi,I'm Rhoen Rene🙌, a Web Developer. Apart from that I am a father, husband and enjoy camping and juggling.**❤✌**
+Hi,I'm Rhoen Rene🙌, a Flutter Developer. Apart from that I am a father, husband and enjoy camping and juggling.**❤✌**
 
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />
@@ -30,7 +30,7 @@ Hi,I'm Rhoen Rene🙌, a Web Developer. Apart from that I am a father, husband a
 
 **Talking about Personal Stuffs:**
 
-- 🌱 I’m currently learning React.
+<!-- - 🌱 I’m currently learning React. -->
 - 👯 Part of Developer Community.
 - 💬 Ask me about anything , Would love to answer them.✌
 - 📫 How to reach me: [email me](mailto:renerhoen@hotmail.com)
