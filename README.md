@@ -37,12 +37,12 @@ Hi, I'm Rhoen Rene🙌, a software engineer with experience in web and mobile de
 - 💬 Ask me about anything , Would love to answer them.✌
 - 📫 How to reach me: [email me](mailto:rfr_dev@outlook.com)
 
-**個人的なことについて: **
+**個人的なことについて:**
 
-🌱 現在、NextJSを学んでいます。
-👯 開発者コミュニティの一員です。
-💬 何でも気軽に質問してください。喜んでお答えします✌。
-📫 連絡方法: メール
+- 🌱 現在、NextJSを学んでいます。
+- 👯 開発者コミュニティの一員です。
+- 💬 何でも気軽に質問してください。喜んでお答えします✌。
+- 📫 連絡方法: メール
 <!-- - ⚡ Check out my recent [Blogs](https://medium.com/@saketprag322)
 - 📝[Portfolio](https://sakigo9.github.io/MyPortfolio/)
 - ✨ I can draw too.[ArtGallery](https://www.instagram.com/finding_my.way/) -->
