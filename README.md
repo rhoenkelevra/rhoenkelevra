@@ -22,7 +22,9 @@
 
 <br /> -->
 
-Hi,I'm Rhoen Rene🙌, a Flutter Developer. Apart from that I am a father, husband and enjoy camping and juggling.**❤✌**
+Hi, I'm Rhoen Rene🙌, a software engineer with experience in web and mobile development. Apart from that, I am a father and husband, and I enjoy camping and juggling.❤
+
+こんにちは、ローエン・レネです🙌。私はソフトウェアエンジニアで、ウェブおよびモバイル開発の経験があります。そのほかにも、父親であり、夫であり、キャンプとジャグリングを楽しんでいます❤。
 
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />
@@ -30,10 +32,17 @@ Hi,I'm Rhoen Rene🙌, a Flutter Developer. Apart from that I am a father, husba
 
 **Talking about Personal Stuffs:**
 
-<!-- - 🌱 I’m currently learning React. -->
+- 🌱 I’m currently learning NextJS.
 - 👯 Part of Developer Community.
 - 💬 Ask me about anything , Would love to answer them.✌
-- 📫 How to reach me: [email me](mailto:renerhoen@hotmail.com)
+- 📫 How to reach me: [email me](mailto:rfr_dev@outlook.com)
+
+**個人的なことについて: **
+
+🌱 現在、NextJSを学んでいます。
+👯 開発者コミュニティの一員です。
+💬 何でも気軽に質問してください。喜んでお答えします✌。
+📫 連絡方法: メール
 <!-- - ⚡ Check out my recent [Blogs](https://medium.com/@saketprag322)
 - 📝[Portfolio](https://sakigo9.github.io/MyPortfolio/)
 - ✨ I can draw too.[ArtGallery](https://www.instagram.com/finding_my.way/) -->
